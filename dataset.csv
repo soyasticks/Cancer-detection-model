@@ -1,0 +1,7 @@
+image_id,label
+melanoma_1,melanoma
+melanoma_2,melanoma
+melanoma_3,melanoma
+squamous_1,squamous_cell_carcinoma
+squamous_2,squamous_cell_carcinoma
+squamous_3,squamous_cell_carcinoma 
